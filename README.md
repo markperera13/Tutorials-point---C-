@@ -1,7 +1,8 @@
 # Tutorials-point---C-
   
   
-To contribute:  
+To contribute: 
+
     get git from https://git-scm.com/download/win  
     open git bash (or change directory with "cd" command to) where you want to clone this repository  
     type or paste the following:  
