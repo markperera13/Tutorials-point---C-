@@ -18,3 +18,10 @@ If structure has changed, remember to pull first
 
     < (optional) "git fetch -all">  
     git pull  
+
+
+OR
+
+
+In Visual Studio, clone this repo with url: "https://github.com/markperera13/Tutorials-point---C-.git"
+When you make a change, Right-click file \> Commit \> Type message \> Commit \> Sync  
